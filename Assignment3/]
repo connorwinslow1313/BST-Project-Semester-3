@@ -1,0 +1,9 @@
+3813
+24957
+751
+Enter input
+-pf to print in alphabetic order all words along with the corresponding list of files in which the words occur
+-pl to print in alphabetic order all words along with the corresponding list of files and numbers of the lines in which the word occurs
+-po to print in alphabetic order all words along with the corresponding list of files, numbers of the lines in which the word occur and the frequency of occurrence of the words.
+-f to print report to output.txt
+-e to exit
